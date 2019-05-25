@@ -1,7 +1,7 @@
 # Spring Boot REST API Starter Template
 
 Sample Response:
-```
+```javascript
 {
     "code": 200,
     "message": "success",
