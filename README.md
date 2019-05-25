@@ -22,3 +22,42 @@ Sample Response:
     ]
 }
 ```
+
+*POST http://localhost:8080/api/v1/employees*
+```javascript
+{
+    "code": 200,
+    "message": "success",
+    "result": {
+        "id": 5,
+        "name": "Ipan Ardian",
+        "position": "VP Engineer"
+    }
+}
+```
+
+*PUT http://localhost:8080/api/v1/employees/{id}*
+```javascript
+{
+    "code": 200,
+    "message": "success",
+    "result": {
+        "id": 5,
+        "name": "Ipan Ardian",
+        "position": "VP Engineer"
+    }
+}
+```
+
+*DELETE http://localhost:8080/api/v1/employees/{id}*
+```javascript
+{
+    "code": 200,
+    "message": "Employee deleted successfully",
+    "result": {
+        "id": 5,
+        "name": "Ipan Ardian",
+        "position": "VP Engineer"
+    }
+}
+```
