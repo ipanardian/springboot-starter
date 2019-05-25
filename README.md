@@ -1,6 +1,9 @@
 # Spring Boot REST API Starter Template
 
 Sample Response:
+
+*GET http://localhost:8080/api/v1/employees*
+
 ```javascript
 {
     "code": 200,
