@@ -12,12 +12,12 @@ Sample Response:
         {
             "id": 1,
             "name": "Ipan Ardian",
-            "position": "VP Engineer"
+            "position": "Mid Laner"
         },
         {
             "id": 2,
             "name": "Tony Stark",
-            "position": "Java Developer"
+            "position": "Top Laner"
         }
     ]
 }
@@ -31,7 +31,7 @@ Sample Response:
     "result": {
         "id": 5,
         "name": "Ipan Ardian",
-        "position": "VP Engineer"
+        "position": "Mid Laner"
     }
 }
 ```
@@ -44,7 +44,7 @@ Sample Response:
     "result": {
         "id": 5,
         "name": "Ipan Ardian",
-        "position": "VP Engineer"
+        "position": "Mid Laner"
     }
 }
 ```
@@ -57,7 +57,7 @@ Sample Response:
     "result": {
         "id": 5,
         "name": "Ipan Ardian",
-        "position": "VP Engineer"
+        "position": "Mid Laner"
     }
 }
 ```
